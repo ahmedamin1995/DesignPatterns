@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.Chain_of_responsablity
 {
-    class Chain_of_responesability
+   public class Chain_of_responesability
     {
+        int number
     }
 }
