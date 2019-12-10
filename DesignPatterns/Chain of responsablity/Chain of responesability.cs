@@ -8,6 +8,6 @@ namespace DesignPatterns.Chain_of_responsablity
 {
    public class Chain_of_responesability
     {
-        int number
+        int number;
     }
 }
