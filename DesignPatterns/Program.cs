@@ -18,6 +18,7 @@ namespace DesignPatterns
         //    }
         //}
        
+
         static void Main(string[] args)
         {
             // DesignPatterns
@@ -99,6 +100,8 @@ namespace DesignPatterns
             #endregion
 
         }
+
+        // adapter
 
       
     }
